@@ -6,4 +6,4 @@ Calculator using tkinter package
 2. Fork this repository
 3. Clone and run with python3
 
-Enjoy!
+Happy Coding!
